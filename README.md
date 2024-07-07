@@ -1,4 +1,5 @@
-Link to Dashboard: https://app.powerbi.com/reportEmbed?reportId=e9c3e00c2d27-4bc3-9049-909da5eb64b0
+Link to Dashboard: https://app.powerbi.com/reportEmbed?reportId=e9c3e00c-2d27-4bc3-9049-909da5eb64b0
+https://app.powerbi.com/reportEmbed?reportId=e9c3e00c-2d27-4bc3-9049-909da5eb64b0
 ## Adventure Works Dashboard: Power BI
 ###
 For this project, I worked for a global manufacturing company that produces cycling
