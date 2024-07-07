@@ -4,6 +4,7 @@ Link to Dashboard: https://app.powerbi.com/reportEmbed?reportId=e9c3e00c2d27-4b
 For this project, I worked for a global manufacturing company that produces cycling
 equipment and accessories to track KPIs (sales, revenue, profit, returns), compare regional 
 performance, analyze product-level trends, and identify high-value customers.
+
 Used Power BI: 
 - Connect and transform the raw data
 - Build a relational data model
