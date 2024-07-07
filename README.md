@@ -24,6 +24,7 @@ RELATED (): Returns related values in each row of a table based on relationships
 ALL (): Returns all rows in a table, or all values in a column, ignoring any filters that have been applied.
 Iterator Functions: Iterator (or “X”) functions allow you to loop through the same expression on each row of a table, then apply some sort of aggregation to the results (SUM, MAX, etc.)
 I Created 4 dashboards with in-depth knowledge of visualization skills. I am attaching screenshots of the dashboard to share details and findings
+
 ## Executive Dashboard: 
 -	Inserted card visuals to executive-level KPIs, which show total revenue, profit orders, and return rate of products. I also added three more KPI cards to give an idea about how the company manages to achieve monthly targets compared to the previous month. I set a monthly target of 10% more than last month for revenue, orders, and returns. Here we can see that only the orders category fell short of achieving its monthly target. I tried to highlight this achievement using conditional formatting. 
 - I was able to include some drill-through functionality after introducing the table with the top 10 products and the orders, revenue, and return rate linked to them. This indicates that you may examine more information about a single product by clicking on it to access a different dashboard (the Product Detail Dashboard).
@@ -39,7 +40,7 @@ This dashboard is drilled through Type, which shows more details for products sh
 -	In the product dashboard the inclusion of gauge bars to show KPI numbers against the target for selected products.
 -	Also, there is an adjusted price displayed using numeric parameters to compare weekly profit and adjusted profit.
 -	Lastly, I added different product metrics using field parameters to showcase the weekly trend of selected metrics.
--	
+	
 ## Customer Details: 
 This dashboard displays customer-level KPIs. I made use of the line chat to show the total number of customers by week. Added two donut charts showing total orders by income level and total orders by occupation. Implemented a visual level filter to display the three occupations with the most orders.  
 ![image](https://github.com/inioluwa279/Adventures-works-using-Power-BI/assets/133115794/5ba96103-2596-4e7a-b4ae-847a8edfe8ed)
